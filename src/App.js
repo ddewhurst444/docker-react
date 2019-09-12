@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Welcome to React! I updated!
+          This was changed on the feature branch!
         </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
